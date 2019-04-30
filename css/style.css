@@ -23,6 +23,7 @@ html, body {
 .height-diff{
   height:45px;
 }
+
 div.content {
   margin-left: 195px;
   padding: 0px 16px;
@@ -278,4 +279,8 @@ p {
 
 a:hover{
   color: #f1f1f1;
+}
+
+.try{
+  
 }
