@@ -13,6 +13,10 @@ html, body {
     max-width: 100%;
     
 }
+
+body {
+  padding-bottom: 175px;
+}
 .icon-block {
   padding: 0 15px;
 }
@@ -95,7 +99,6 @@ p.ex1{
 }
 
 .logo-image { 
-   
   border-radius: 4px;
   padding: 18px;
   margin-left:-9px;
@@ -281,6 +284,13 @@ a:hover{
   color: #f1f1f1;
 }
 
-.try{
-  
+.scientific{
+  font-size:23px;
+  padding-top:10px;
+}
+
+.logo-image3{
+  width: 38px;
+  top:5px;
+  position:relative;
 }
